@@ -47,3 +47,11 @@
 <img src="https://raw.githubusercontent.com/PatsyDC/PatsyDC/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31w57fx327g4uiych6virhprfmyy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w57fx327g4uiych6virhprfmyy&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
