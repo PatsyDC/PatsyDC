@@ -37,18 +37,24 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+##
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PatsyDC/PatsyDC/output/snake.svg" alt="Snake animation" />
+<div align="center">
+ <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ipadhmjbn77yne4e5lnh3xhnom&redirect=true">
+   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ipadhmjbn77yne4e5lnh3xhnom&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
+ </a>
+</div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31w57fx327g4uiych6virhprfmyy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w57fx327g4uiych6virhprfmyy&count=3" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31ipadhmjbn77yne4e5lnh3xhnom">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ipadhmjbn77yne4e5lnh3xhnom&count=3" alt="Spotify recently played"  />
   </a>
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/PatsyDC/PatsyDC/output/snake.svg" alt="Snake animation" />
 
 ###
